@@ -1,0 +1,5 @@
+<section id="gallery">
+    <h2>Our Projects</h2>
+    <img src="images/project1.jpg" alt="Project 1">
+    <img src="images/project2.jpg" alt="Project 2">
+</section>
