@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Green Growth Liberia</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Our Projects</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="projects-overview">
+            <h2>Projects Overview</h2>
+            <p>Welcome to our projects section where we showcase our ongoing and completed projects aimed at promoting green growth and sustainability in Liberia.</p>
+        </section>
+        <section id="project-list">
+            <h2>Project List</h2>
+            <div class="project-item">
+                <h3>CLF Project</h3>
+                <p>Description of CLF Project...</p>
+                <img src="images/clf-project.jpg" alt="CLF Project">
+            </div>
+            <div class="project-item">
+                <h3>Youth Capacity Building in Entrepreneurship Project</h3>
+                <p>Description of Youth Capacity Building in Entrepreneurship Project...</p>
+                <img src="images/youth-entrepreneurship.jpg" alt="Youth Capacity Building in Entrepreneurship Project">
+            </div>
+            <!-- Add more project items as needed -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Green Growth Liberia. All rights reserved.</p>
+    </footer>
+</body>
+</html>
