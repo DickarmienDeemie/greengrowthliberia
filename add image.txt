@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Green Growth Liberia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="path/to/your/images/GzGL logo.jpg" alt="Green Growth Liberia Logo" width="100" height="auto">
+        <h1>Green Growth Liberia</h1>
+    </header>
+    <!-- Rest of your website content -->
+</body>
+</html>
